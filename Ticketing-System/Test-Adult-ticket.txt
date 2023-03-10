@@ -1,0 +1,9 @@
+Passenger Name     : Test
+Passenger Age      : 23
+Passenger DOB      : 02/02/1998
+Passenger Contact  : 1345657333
+Ticket Type        : One-way
+Passenger Type     : Adult
+Location From      : Kiama
+Location To        : Shellharbour
+Total Ticket Price : 16.32

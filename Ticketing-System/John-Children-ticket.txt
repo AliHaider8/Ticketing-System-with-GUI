@@ -1,0 +1,9 @@
+Passenger Name     : John
+Passenger Age      : 10
+Passenger DOB      : 02/02/2011
+Passenger Contact  : 134354535
+Ticket Type        : One-way
+Passenger Type     : Children
+Location From      : Kiama
+Location To        : Shellharbour
+Total Ticket Price : 8.16
